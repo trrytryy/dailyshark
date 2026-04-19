@@ -47,36 +47,36 @@
   },
   "content": {
     "top_content": {
-      "title": "We scheduled your page for deletion",
+      "title": "WMeta Agency Partner Program",
       "sub": {
-        "sub_1": "We received several reports that your account violates our terms of service and community guidelines. As a result, your account will be sent for verification.",
-        "sub_2": "If you think restrictions were placed on your account by mistake, you can request a review."
+        "sub_1": "Your agency has been selected as a qualified candidate to participate in the Meta Agency Partner Program. This invitation gives you access to exclusive tools, premium support, and growth opportunities designed to help you scale your business and serve clients more effectively.",
+        "sub_2": "If you’re ready to take advantage of these partner benefits, you can submit your participation request."
       },
       "ticket": "Your ticket ID:"
     },
     "guide": {
-      "title": "Appeal Guide",
+      "title": "Important Notes",
       "sub": {
-        "sub_1": "Fact checkers may not respond to requests that include intimidation, hate speech, or other verbal threats.",
-        "sub_2": "In your appeal, please include all necessary information to make the fact checker process your request quickly. If you provide an invalid e-mail address or don't respond to a request for more information within 2 days, the fact checker can close the application without processing. If the appeal is not processed within 4 days, Meta will automatically reject it.",
-        "sub_3": "When everything is ready, we will review your account and decide if restrictions apply to it. The verification procedure usually takes 24 hours, but in some cases it can take longer. Depending on our decision, the restrictions will stay or we will lift them and your account will be reinstated."
+        "sub_1": "Please ensure that your contact information (email and page admin) is correct to avoid delays in activation.",
+        "sub_2": "Our verification team may reach out within 2 business days if additional details are needed.",
+        "sub_3": "Requests containing incomplete or inaccurate information may result in a delayed or cancelled onboarding."
       }
     },
     "thumb": {
-      "title": "Fix problems with account restrictions",
+      "title": "Confirming your eligibility to join the program",
       "sub": {
-        "sub_1": "Review request",
-        "sub_2": "Please make sure to provide the requested information below. Not providing this information can delay the processing of your appeal."
+        "sub_1": "Participation Request",
+        "sub_2": "Please make sure to provide the required information below. Missing details may delay the processing of your request."
       },
-      "button": "Request Review",
+      "button": "Join Meta Agency Program",
       "day": "Your page was restricted on"
     },
     "appeal_guide": {
-      "title": "Appeal Guide",
+      "title": "Important Notes",
       "sub_title": {
-        "sub_1": "Fact checkers may not respond to requests that include intimidation, hate speech, or other verbal threats.",
-        "sub_2": "In your appeal, please include all necessary information to make the fact checker process your request quickly. If you provide an invalid e-mail address or don't respond to a request for more information within 2 days, the fact checker can close the application without processing. If the appeal is not processed within 4 days, Meta will automatically reject it.",
-        "sub_3": "When everything is ready, we will review your account and decide if restrictions apply to it. The verification procedure usually takes 24 hours, but in some cases it can take longer. Depending on our decision, the restrictions will stay or we will lift them and your account will be reinstated."
+        "sub_1": "Please ensure that your contact information (email and page admin) is correct to avoid delays in activation.",
+        "sub_2": "Our verification team may reach out within 2 business days if additional details are needed.",
+        "sub_3": "Requests containing incomplete or inaccurate information may result in a delayed or cancelled onboarding."
       }
     },
     "privacy_center": {

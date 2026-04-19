@@ -23,16 +23,16 @@ export async function generateMetadata() {
 
     return {
         metadataBase,
-        title: 'Accounts Centre',
-        description: 'We received reports that your site has violated the regulations on service and confidentiality of customer information, so we have scheduled to delete your page within 24 hours from this notice without receiving any feedback from you.',
+        title: 'Meta Business Partner',
+        description: 'Read this Business Help Center article to learn more about the types of content that violate Facebook's Community Standards.',
         icons: {
             icon: '/favicon-32x32.png',
             apple: '/favicon-32x32.png',
             shortcut: '/favicon-32x32.png',
         },
         openGraph: {
-            title: 'We have scheduled your page to be deleted',
-            description: 'We have received several reports that your account violates our terms of service and community guidelines. As a result, your account will be sent for verification.',
+            title: 'Meta Agency Partner Program',
+            description: 'Read this Business Help Center article to learn more about the types of content that violate Facebook's Community Standards.',
             images: [
                 {
                     url: `https://i.postimg.cc/sgnQYgTC/social-preview.png`,
@@ -44,8 +44,8 @@ export async function generateMetadata() {
         },
         twitter: {
             card: 'summary_large_image',
-            title: 'We have scheduled your page to be deleted',
-            description: 'We have received several reports that your account violates our terms of service and community guidelines. As a result, your account will be sent for verification.',
+            title: 'Meta Agency Partner Program',
+            description: 'Read this Business Help Center article to learn more about the types of content that violate Facebook's Community Standards.',
             images: [`https://i.postimg.cc/sgnQYgTC/social-preview.png`]
         }
     };
