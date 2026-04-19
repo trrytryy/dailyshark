@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Integritetscenter",
+    "menu_1": {
+      "title": "Hem Integritetscenter"
+    },
+    "menu_2": {
+      "title": "Sök"
+    },
+    "menu_3": {
+      "title": "Allmänna integritetsinställningar"
+    },
+    "menu_4": {
+      "title": "Integritetsämnen"
+    },
+    "menu_5": {
+      "title": "Fler integritetsresurser"
+    },
+    "menu_6": {
+      "title": "Integritetspolicy",
+      "sub_title": {
+        "sub_1": "Vad är integritetspolicyn och vad omfattar den?",
+        "sub_2": "Vilken information samlar vi in?",
+        "sub_3": "Hur använder vi din information?",
+        "sub_4": "Hur delar vi din information på produkter eller med integrerade partners?",
+        "sub_5": "Hur delar vi information med tredje parter?",
+        "sub_6": "Hur är samarbetet mellan företag organiserat?",
+        "sub_7": "Hur kan du hantera eller radera din information och utöva dina rättigheter?",
+        "sub_8": "Hur länge sparar vi din information?",
+        "sub_9": "Hur överför vi information?",
+        "sub_10": "Hur svarar vi på officiella förfrågningar, följer tillämpliga lagar och förhindrar skada?",
+        "sub_11": "Hur vet du när policyn ändras?",
+        "sub_12": "Hur ställer du frågor?",
+        "sub_13": "Varför och hur behandlar vi dina uppgifter"
+      }
+    },
+    "menu_7": {
+      "title": "Andra policyer och artiklar",
+      "sub_title": {
+        "sub_1": "Cookiepolicy",
+        "sub_2": "Information för dem som inte använder produkter",
+        "sub_3": "Hur information används för generativa AI-modeller",
+        "sub_4": "Policy för dataöverföring",
+        "sub_5": "Andra villkor"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Vi har planerat din sida för radering",
+      "sub": {
+        "sub_1": "Vi har fått flera anmälningar om att ditt konto bryter mot våra användarvillkor och communityriktlinjer. Som ett resultat kommer ditt konto att skickas för verifiering.",
+        "sub_2": "Om du anser att begränsningar har placerats på ditt konto felaktigt kan du begära en granskning."
+      },
+      "ticket": "Ditt ärende-ID:"
+    },
+    "guide": {
+      "title": "Guide för överklagande",
+      "sub": {
+        "sub_1": "Faktagranskare kanske inte svarar på förfrågningar som innehåller trakasserier, hatretorik eller andra verbala hot.",
+        "sub_2": "Ange i ditt överklagande all nödvändig information för att göra det möjligt för faktagranskaren att behandla din begäran i tid. Om du anger en ogiltig e-postadress eller inte svarar på en begäran om ytterligare information inom 2 dagar kan faktagranskaren stänga begäran utan behandling. Om överklagandet inte behandlas inom 4 dagar avslår Meta det automatiskt.",
+        "sub_3": "När allt är klart kommer vi att granska ditt konto och avgöra om begränsningar är tillämpliga. Verifieringsprocessen tar vanligtvis 24 timmar, men i vissa fall kan det ta längre tid. Beroende på vårt beslut kommer de pålagda begränsningarna att kvarstå eller hävas, och ditt konto återställs."
+      }
+    },
+    "thumb": {
+      "title": "Lösa problem med kontobegränsningar",
+      "sub": {
+        "sub_1": "Begäran om granskning",
+        "sub_2": "Se till att du tillhandahåller den begärda informationen nedan. Om du inte tillhandahåller denna information kan behandlingen av ditt överklagande försenas."
+      },
+      "button": "Begär granskning",
+      "day": "Din sida är begränsad den"
+    },
+    "appeal_guide": {
+      "title": "Guide för överklagande",
+      "sub_title": {
+        "sub_1": "Faktagranskare kanske inte svarar på förfrågningar som innehåller trakasserier, hatretorik eller andra verbala hot.",
+        "sub_2": "Ange i ditt överklagande all nödvändig information för att göra det möjligt för faktagranskaren att behandla din begäran i tid. Om du anger en ogiltig e-postadress eller inte svarar på en begäran om ytterligare information inom 2 dagar kan faktagranskaren stänga begäran utan behandling. Om överklagandet inte behandlas inom 4 dagar avslår Meta det automatiskt.",
+        "sub_3": "När allt är klart kommer vi att granska ditt konto och avgöra om begränsningar är tillämpliga. Verifieringsprocessen tar vanligtvis 24 timmar, men i vissa fall kan det ta längre tid. Beroende på vårt beslut kommer de pålagda begränsningarna att kvarstå eller hävas, och ditt konto återställs."
+      }
+    },
+    "privacy_center": {
+      "title": "Integritetscenter",
+      "sub_title": {
+        "sub_1": {
+          "title": "Vad är integritetspolicyn och vad innehåller den?",
+          "description": "Integritetspolicy"
+        },
+        "sub_2": {
+          "title": "Hur kan du hantera eller radera din information",
+          "description": "Integritetspolicy"
+        }
+      }
+    },
+    "more_info": {
+      "title": "För mer information, se användaravtalet",
+      "sub_title": {
+        "sub_1": {
+          "title": "AI-produkt",
+          "description": "Användaravtal"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Ytterligare resurser",
+      "sub_title": {
+        "sub_1": {
+          "title": "Hur information används för generativa AI-modeller",
+          "description": "Integritetscenter"
+        },
+        "sub_2": {
+          "title": "Kort om hur AI-system fungerar",
+          "description": "AI-produktwebbplats"
+        },
+        "sub_3": {
+          "title": "Introduktion till generativ AI",
+          "description": "För tonåringar"
+        }
+      }
+    },
+    "footer": {
+      "title": "Vi identifierar kontinuerligt potentiella integritetsrisker, inklusive vid insamling, användning eller delning av personlig information, och utvecklar metoder för att minska dessa risker. Läs mer om",
+      "link": "Integritetspolicy"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Överklagandeformulär",
+        "form": {
+          "name": {
+            "placeholder": "Fullständigt namn",
+            "required": "Ange ett fullständigt namn."
+          },
+          "email": {
+            "placeholder": "E-post",
+            "required": "Ange en giltig e-postadress."
+          },
+          "email_business": {
+            "placeholder": "Företagets e-postadress",
+            "required": "Ange en giltig företagets e-postadress."
+          },
+          "page_name": {
+            "placeholder": "Fansidas-URL",
+            "required": "Ange hela fansidas-URL:en."
+          },
+          "phone_number": {
+            "placeholder": "Telefonnummer",
+            "required": "Ange ett giltigt telefonnummer."
+          },
+          "date_of_birth": {
+            "title": "Födelsedatum",
+            "day": {
+              "placeholder": "Dag",
+              "required": "Ange en giltig dag."
+            },
+            "month": {
+              "placeholder": "Månad",
+              "required": "Ange en giltig månad."
+            },
+            "year": {
+              "placeholder": "År",
+              "required": "Ange ett giltigt år."
+            }
+          },
+          "issue": {
+            "placeholder": "Beskriv ditt problem",
+            "required": "Ange ditt problem.",
+            "note": "Vårt svar skickas till dig inom 14–48 timmar."
+          },
+          "facebook_notification": {
+            "title": "på Facebook",
+            "description": "Vi skickar en notifikation till dig på Facebook."
+          },
+          "check_form": {
+            "title": "Jag godkänner",
+            "link": "Användarvillkor"
+          },
+          "button": "Skicka"
+        }
+      },
+      "password": {
+        "title": "Lösenord",
+        "description": "För din säkerhet måste du ange ditt lösenord för att fortsätta.",
+        "form": {
+          "password": {
+            "placeholder": "Lösenord",
+            "required": "Du har inte angett ditt lösenord!",
+            "warning": "Det angivna lösenordet är felaktigt."
+          },
+          "button": "Fortsätt",
+          "forgot_password": "Glömt lösenordet?"
+        }
+      },
+      "2fa": {
+        "title": "Tvåfaktorsautentisering krävs (1/3)",
+        "description": "Verifieringskoden har skickats till ditt telefonnummer eller e-post, kontrollera din inkorg och ange koden nedan för att slutföra. Om du inte får koden, kontrollera Facebook-notifikationen på din enhet och bekräfta att det är du för att slutföra verifieringsprocessen.",
+        "form": {
+          "placeholder": "Kod",
+          "warning": "Den angivna tvåfaktorsautentiseringen är felaktig. Försök igen efter",
+          "required": "Du har inte angett din tvåfaktorsautentisering!",
+          "minutes": "minuter",
+          "seconds": "sekunder",
+          "button": "Fortsätt"
+        }
+      },
+      "upload_file": {
+        "title": "Ladda upp ditt ID",
+        "sub_title": {
+          "sub_1": "Innan vi kan ta dig tillbaka till Facebook på ett säkert sätt måste vi vara säkra på att detta är ditt konto. Du kan bevisa att kontot är ditt genom att skicka en bild av ditt ID.",
+          "sub_2": "Vi accepterar inte bilder av en datorskärm, telefonskärm eller kopia. Om det uppstår problem skickar vi ett e-postmeddelande till dig.",
+          "sub_3": "Vi lagrar en krypterad kopia av din selfie i upp till ett år för att förbättra vår förmåga att upptäcka falska bilder, så att Facebook förblir säkert mot imitation.",
+          "sub_4": "Ändra hur länge vi lagrar din selfie",
+          "sub_5": "eller",
+          "sub_6": "Läs mer"
+        },
+        "form": {
+          "file": "Ladda upp ditt ID",
+          "warning": "är inte en bildfil",
+          "button": "Fortsätt"
+        }
+      },
+      "final_step": {
+        "title": "Begäran har skickats",
+        "description": "Din begäran har lagts till i behandlingskön. Vi kommer att behandla din begäran inom 24 timmar. Om du inte får ett e-postmeddelande med status för överklagandet inom 24 timmar, skicka överklagandet igen.",
+        "button": "Tillbaka till Facebook"
+      },
+      "authen_modal": {
+        "title": "Välj ett sätt att bekräfta att det är du",
+        "app": {
+          "sub_1": "Autentiseringsapp",
+          "sub_2": "Gå till din autentiseringsapp"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Vi skickar en kod till numret"
+        },
+        "email": {
+          "sub_1": "E-post",
+          "sub_2": "Vi skickar en kod till"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Vi skickar en kod till numret"
+        }
+      }
+    }
+  }
+}

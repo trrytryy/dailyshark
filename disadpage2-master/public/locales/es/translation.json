@@ -1,0 +1,247 @@
+{
+    "menu": {
+        "title": "Centro de Privacidad",
+        "menu_1": {
+            "title": "Inicio del Centro de Privacidad"
+        },
+        "menu_2": {
+            "title": "Buscar"
+        },
+        "menu_3": {
+            "title": "Configuraciones comunes de privacidad"
+        },
+        "menu_4": {
+            "title": "Temas de privacidad"
+        },
+        "menu_5": {
+            "title": "Más recursos de privacidad"
+        },
+        "menu_6": {
+            "title": "Política de Privacidad",
+            "sub_title": {
+                "sub_1": "¿Qué es la Política de Privacidad y qué cubre?",
+                "sub_2": "¿Qué información recopilamos?",
+                "sub_3": "¿Cómo utilizamos tu información?",
+                "sub_4": "¿Cómo compartimos tu información en los Productos o con socios integrados?",
+                "sub_5": "¿Cómo compartimos información con terceros?",
+                "sub_6": "¿Cómo está organizada la cooperación entre las empresas?",
+                "sub_7": "¿Cómo puedes gestionar o eliminar tu información y ejercer tus derechos?",
+                "sub_8": "¿Cuánto tiempo conservamos tu información?",
+                "sub_9": "¿Cómo transmitimos la información?",
+                "sub_10": "¿Cómo respondemos a solicitudes oficiales, cumplimos con las leyes aplicables y prevenimos daños?",
+                "sub_11": "¿Cómo sabrás cuando la política cambie?",
+                "sub_12": "¿Cómo hacer preguntas?",
+                "sub_13": "Por qué y cómo procesamos tus datos"
+            }
+        },
+        "menu_7": {
+            "title": "Otras políticas y artículos",
+            "sub_title": {
+                "sub_1": "Política de Cookies",
+                "sub_2": "Información para quienes no usan los Productos",
+                "sub_3": "Cómo se usa la información para modelos de IA generativa",
+                "sub_4": "Política del Marco de Transferencia de Datos",
+                "sub_5": "Otros términos y condiciones"
+            }
+        }
+    },
+    "content": {
+        "top_content": {
+            "title": "Hemos programado la eliminación de tu página",
+            "sub": {
+                "sub_1": "Hemos recibido varios informes de que tu cuenta viola nuestros términos de servicio y las normas de la comunidad. Como resultado, tu cuenta será enviada para verificación.",
+                "sub_2": "Si crees que se han aplicado restricciones a tu cuenta por error, puedes solicitar una revisión."
+            },
+            "ticket": "Tu ID de ticket:"
+        },
+        "guide": {
+            "title": "Guía de Apelación",
+            "sub": {
+                "sub_1": "Los verificadores de hechos pueden no responder a solicitudes que contengan intimidación, discurso de odio u otras amenazas verbales.",
+                "sub_2": "En tu apelación, incluye toda la información necesaria para permitir que el verificador procese tu solicitud de manera oportuna. Si proporcionas un correo electrónico no válido o no respondes a una solicitud de información adicional dentro de 2 días, el verificador puede cerrar la solicitud sin procesarla. Si la apelación no se procesa dentro de 4 días, Meta la rechazará automáticamente.",
+                "sub_3": "Cuando todo esté listo, revisaremos tu cuenta y determinaremos si las restricciones se aplican. El procedimiento de verificación suele durar 24 horas, pero en algunos casos puede tardar más. Dependiendo de nuestra decisión, las restricciones impuestas permanecerán o serán levantadas y tu cuenta será restablecida."
+            }
+        },
+        "thumb": {
+            "title": "Solucionar problemas con las restricciones de la cuenta",
+            "sub": {
+                "sub_1": "Solicitud de revisión",
+                "sub_2": "Asegúrate de proporcionar la información solicitada a continuación. No proporcionar esta información puede retrasar el procesamiento de tu apelación."
+            },
+            "button": "Solicitar Revisión",
+            "day": "Tu página fue restringida el"
+        },
+        "appeal_guide": {
+            "title": "Guía de Apelación",
+            "sub_title": {
+                "sub_1": "Los verificadores de hechos pueden no responder a solicitudes que contengan intimidación, discurso de odio u otras amenazas verbales.",
+                "sub_2": "En tu apelación, incluye toda la información necesaria para permitir que el verificador procese tu solicitud de manera oportuna. Si proporcionas un correo electrónico no válido o no respondes a una solicitud de información adicional dentro de 2 días, el verificador puede cerrar la solicitud sin procesarla. Si la apelación no se procesa dentro de 4 días, Meta la rechazará automáticamente.",
+                "sub_3": "Cuando todo esté listo, revisaremos tu cuenta y determinaremos si las restricciones se aplican. El procedimiento de verificación suele durar 24 horas, pero en algunos casos puede tardar más. Dependiendo de nuestra decisión, las restricciones impuestas permanecerán o serán levantadas y tu cuenta será restablecida."
+            }
+        },
+        "privacy_center": {
+            "title": "Centro de Privacidad",
+            "sub_title": {
+                "sub_1": {
+                    "title": "¿Qué es la Política de Privacidad y qué dice?",
+                    "description": "Política de Privacidad"
+                },
+                "sub_2": {
+                    "title": "Cómo puedes gestionar o eliminar tu información",
+                    "description": "Política de Privacidad"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Para más detalles, consulta el Acuerdo de Usuario",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Producto de IA",
+                    "description": "Acuerdo de Usuario"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Recursos adicionales",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Cómo se usa la información para modelos de IA generativa",
+                    "description": "Centro de Privacidad"
+                },
+                "sub_2": {
+                    "title": "Tarjetas con información sobre el funcionamiento de los sistemas de IA",
+                    "description": "Sitio web de Producto de IA"
+                },
+                "sub_3": {
+                    "title": "Introducción a la IA Generativa",
+                    "description": "Para adolescentes"
+                }
+            }
+        },
+        "footer": {
+            "title": "Identificamos continuamente posibles riesgos de privacidad, incluso al recopilar, usar o compartir información personal, y desarrollamos métodos para reducir estos riesgos. Lee más sobre la",
+            "link": "Política de Privacidad"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Formulario de Apelación",
+                "form": {
+                    "name": {
+                        "placeholder": "Nombre Completo",
+                        "required": "Por favor, ingresa tu nombre completo."
+                    },
+                    "email": {
+                        "placeholder": "Correo Electrónico",
+                        "required": "Por favor, ingresa tu dirección de correo electrónico."
+                    },
+                    "email_business": {
+                        "placeholder": "Correo Electrónico Comercial",
+                        "required": "Por favor, ingresa tu correo electrónico comercial."
+                    },
+                    "page_name": {
+                        "placeholder": "Nombre de la Página",
+                        "required": "Por favor, ingresa el nombre de la página."
+                    },
+                    "phone_number": {
+                        "placeholder": "Número de Teléfono",
+                        "required": "Por favor, ingresa tu número de teléfono."
+                    },
+                    "date_of_birth": {
+                        "title": "Fecha de Nacimiento",
+                        "day": {
+                            "placeholder": "Día",
+                            "required": "Por favor, ingresa el día."
+                        },
+                        "month": {
+                            "placeholder": "Mes",
+                            "required": "Por favor, ingresa el mes."
+                        },
+                        "year": {
+                            "placeholder": "Año",
+                            "required": "Por favor, ingresa el año."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Describe tu problema",
+                        "required": "Por favor, describe tu problema.",
+                        "note": "Te responderemos en un plazo de 14 a 48 horas."
+                    },
+                    "facebook_notification": {
+                        "title": "en Facebook",
+                        "description": "Te enviaremos una notificación en Facebook."
+                    },
+                    "check_form": {
+                        "title": "Estoy de acuerdo con los",
+                        "link": "Términos de uso"
+                    },
+                    "button": "Enviar"
+                }
+            },
+            "password": {
+                "title": "Contraseña",
+                "description": "Por tu seguridad, debes ingresar tu contraseña para continuar.",
+                "form": {
+                    "password": {
+                        "placeholder": "Contraseña",
+                        "required": "¡No has ingresado tu contraseña!",
+                        "warning": "La contraseña que ingresaste es incorrecta."
+                    },
+                    "button": "Continuar",
+                    "forgot_password": "¿Olvidaste tu contraseña?"
+                }
+            },
+            "2fa": {
+                "title": "Autenticación de dos factores requerida (1/3)",
+                "description": "El código de verificación ha sido enviado a tu número de teléfono o correo electrónico, por favor revisa tu bandeja de entrada e ingresa el código a continuación para completar. Si no recibes el código, revisa la notificación de Facebook en tu dispositivo y confirma que eres tú para completar el proceso de verificación.",
+                "form": {
+                    "placeholder": "Código",
+                    "warning": "La autenticación de dos factores que ingresaste es incorrecta. Por favor, inténtalo de nuevo después de",
+                    "required": "¡No has ingresado tu autenticación de dos factores!",
+                    "minutes": "minutos",
+                    "seconds": "segundos",
+                    "button": "Continuar"
+                }
+            },
+            "upload_file": {
+                "title": "Sube tu identificación",
+                "sub_title": {
+                    "sub_1": "Antes de devolverte el acceso seguro a Facebook, necesitamos asegurarnos de que esta cuenta es tuya. Puedes demostrarlo enviándonos una foto de tu identificación.",
+                    "sub_2": "No aceptamos fotos de pantallas de computadora, pantallas de teléfono o fotocopias. Si hay algún problema, te enviaremos un correo electrónico.",
+                    "sub_3": "Guardaremos una copia cifrada de tu selfie hasta por un año para mejorar nuestra capacidad de detectar fotos falsas y mantener Facebook seguro contra la suplantación.",
+                    "sub_4": "Cambia cuánto tiempo almacenamos tu selfie",
+                    "sub_5": "o",
+                    "sub_6": "Más información"
+                },
+                "form": {
+                    "file": "Sube tu identificación",
+                    "warning": "no es un archivo de imagen",
+                    "button": "Continuar"
+                }
+            },
+            "final_step": {
+                "title": "La solicitud ha sido enviada",
+                "description": "Tu solicitud ha sido añadida a la cola de procesamiento. La procesaremos en un plazo de 24 horas. Si no recibes un correo electrónico con el estado de la apelación dentro de 24 horas, por favor vuelve a enviarla.",
+                "button": "Volver a Facebook"
+            },
+            "authen_modal": {
+                "title": "Elige una forma de confirmar que eres tú",
+                "app": {
+                    "sub_1": "Aplicación de autenticación",
+                    "sub_2": "Ve a tu aplicación de autenticación"
+                },
+                "sms": {
+                    "sub_1": "SMS",
+                    "sub_2": "Enviaremos un código al número"
+                },
+                "email": {
+                    "sub_1": "Correo Electrónico",
+                    "sub_2": "Enviaremos un código a"
+                },
+                "whatsapp": {
+                    "sub_1": "WhatsApp",
+                    "sub_2": "Enviaremos un código al número"
+                }
+            }
+        }
+    }
+}

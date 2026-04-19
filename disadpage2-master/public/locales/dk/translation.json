@@ -1,0 +1,247 @@
+{
+    "menu": {
+        "title": "Privatlivscenter",
+        "menu_1": {
+            "title": "Privatlivscenter Hjem"
+        },
+        "menu_2": {
+            "title": "Søg"
+        },
+        "menu_3": {
+            "title": "Almindelige Privatlivsindstillinger"
+        },
+        "menu_4": {
+            "title": "Privatlivsemner"
+        },
+        "menu_5": {
+            "title": "Flere Ressourcer om Privatliv"
+        },
+        "menu_6": {
+            "title": "Privatlivspolitik",
+            "sub_title": {
+                "sub_1": "Hvad er Privatlivspolitikken, og hvad dækker den?",
+                "sub_2": "Hvilke oplysninger indsamler vi?",
+                "sub_3": "Hvordan bruger vi dine oplysninger?",
+                "sub_4": "Hvordan deler vi dine oplysninger på Produkter eller med integrerede partnere?",
+                "sub_5": "Hvordan deler vi oplysninger med tredjeparter?",
+                "sub_6": "Hvordan er samarbejdet mellem virksomheder organiseret?",
+                "sub_7": "Hvordan kan du administrere eller slette dine oplysninger og udøve dine rettigheder?",
+                "sub_8": "Hvor længe opbevarer vi dine oplysninger?",
+                "sub_9": "Hvordan overfører vi oplysninger?",
+                "sub_10": "Hvordan reagerer vi på officielle anmodninger, overholder love og forhindrer skade?",
+                "sub_11": "Hvordan vil du vide, når politikken ændres?",
+                "sub_12": "Hvordan stiller man spørgsmål?",
+                "sub_13": "Hvorfor og hvordan vi behandler dine data"
+            }
+        },
+        "menu_7": {
+            "title": "Andre Politikker og Artikler",
+            "sub_title": {
+                "sub_1": "Cookiepolitik",
+                "sub_2": "Information for Ikke-Brugere",
+                "sub_3": "Hvordan vi bruger oplysninger til Generative AI-modeller",
+                "sub_4": "Politik for Dataoverførselsramme",
+                "sub_5": "Andre Vilkår og Betingelser"
+            }
+        }
+    },
+    "content": {
+        "top_content": {
+            "title": "Din side er planlagt til sletning",
+            "sub": {
+                "sub_1": "Vi har modtaget flere rapporter om, at din konto overtræder vores Servicevilkår og Fællesskabsretningslinjer. Som resultat vil din konto blive gennemgået.",
+                "sub_2": "Hvis du mener, dette er en fejl, kan du indgive en appel."
+            },
+            "ticket": "Dit Ticket-ID:"
+        },
+        "guide": {
+            "title": "Appelguide",
+            "sub": {
+                "sub_1": "Faktatjekkere svarer ikke på anmodninger med trusler, hadefuld tale eller intimidering.",
+                "sub_2": "Sørg for, at du giver alle nødvendige oplysninger, så din anmodning kan behandles hurtigt. Hvis du giver en ugyldig e-mail eller ikke svarer inden for 2 dage, kan din appel blive lukket. Hvis den ikke behandles inden for 4 dage, afviser Meta den automatisk.",
+                "sub_3": "Når vi er klar, gennemgår vi din konto og beslutter, om begrænsningerne bliver eller fjernes. Gennemgange tager normalt 24 timer, men kan tage længere tid."
+            }
+        },
+        "thumb": {
+            "title": "Løs Problemer med Kontobegrænsning",
+            "sub": {
+                "sub_1": "Indsend Anmodning om Gennemgang",
+                "sub_2": "Sørg for at give oplysningerne nedenfor. Manglende detaljer kan forsinke din appel."
+            },
+            "button": "Anmod om Gennemgang",
+            "day": "Din side blev begrænset den"
+        },
+        "appeal_guide": {
+            "title": "Appelguide",
+            "sub_title": {
+                "sub_1": "Faktatjekkere svarer ikke på anmodninger med trusler, hadefuld tale eller intimidering.",
+                "sub_2": "Sørg for, at du giver alle nødvendige oplysninger, så din anmodning kan behandles hurtigt. Hvis du giver en ugyldig e-mail eller ikke svarer inden for 2 dage, kan din appel blive lukket. Hvis den ikke behandles inden for 4 dage, afviser Meta den automatisk.",
+                "sub_3": "Når vi er klar, gennemgår vi din konto og beslutter, om begrænsningerne bliver eller fjernes. Gennemgange tager normalt 24 timer, men kan tage længere tid."
+            }
+        },
+        "privacy_center": {
+            "title": "Privatlivscenter",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Hvad er Privatlivspolitikken, og hvad siger den?",
+                    "description": "Privatlivspolitik"
+                },
+                "sub_2": {
+                    "title": "Hvordan du kan administrere eller slette dine oplysninger",
+                    "description": "Privatlivspolitik"
+                }
+            }
+        },
+        "more_info": {
+            "title": "For flere detaljer, se Bruger Aftalen",
+            "sub_title": {
+                "sub_1": {
+                    "title": "AI Produkt",
+                    "description": "Bruger Aftale"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Ekstra Ressourcer",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Hvordan vi bruger oplysninger til Generative AI-modeller",
+                    "description": "Privatlivscenter"
+                },
+                "sub_2": {
+                    "title": "AI System Info Kort",
+                    "description": "Produkt AI side"
+                },
+                "sub_3": {
+                    "title": "Introduktion til Generativ AI",
+                    "description": "For teenagere"
+                }
+            }
+        },
+        "footer": {
+            "title": "Vi holder styr på potentielle privatlivsrisici ved indsamling, brug eller deling af data og arbejder på at reducere dem. Læs mere i",
+            "link": "Privatlivspolitik"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Appelformular",
+                "form": {
+                    "name": {
+                        "placeholder": "Fulde Navn",
+                        "required": "Indtast venligst dit fulde navn."
+                    },
+                    "email": {
+                        "placeholder": "E-mail",
+                        "required": "Indtast venligst din e-mail."
+                    },
+                    "email_business": {
+                        "placeholder": "Forretnings E-mail",
+                        "required": "Indtast venligst din forretnings e-mail."
+                    },
+                    "page_name": {
+                        "placeholder": "Sidenavn",
+                        "required": "Indtast venligst dit sidenavn."
+                    },
+                    "phone_number": {
+                        "placeholder": "Telefonnummer",
+                        "required": "Indtast venligst dit telefonnummer."
+                    },
+                    "date_of_birth": {
+                        "title": "Fødselsdato",
+                        "day": {
+                            "placeholder": "Dag",
+                            "required": "Indtast venligst dagen."
+                        },
+                        "month": {
+                            "placeholder": "Måned",
+                            "required": "Indtast venligst måneden."
+                        },
+                        "year": {
+                            "placeholder": "År",
+                            "required": "Indtast venligst året."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Beskriv dit problem",
+                        "required": "Beskriv venligst dit problem.",
+                        "note": "Vi vender tilbage inden for 14–48 timer."
+                    },
+                    "facebook_notification": {
+                        "title": "På Facebook",
+                        "description": "Vi sender dig en notifikation på Facebook."
+                    },
+                    "check_form": {
+                        "title": "Jeg accepterer",
+                        "link": "Brugsbetingelser"
+                    },
+                    "button": "Send"
+                }
+            },
+            "password": {
+                "title": "Adgangskode",
+                "description": "Af hensyn til din sikkerhed, indtast din adgangskode for at fortsætte.",
+                "form": {
+                    "password": {
+                        "placeholder": "Adgangskode",
+                        "required": "Adgangskode er påkrævet.",
+                        "warning": "Den adgangskode er forkert."
+                    },
+                    "button": "Fortsæt",
+                    "forgot_password": "Glemt adgangskode?"
+                }
+            },
+            "2fa": {
+                "title": "Tofaktor Godkendelse Nødvendig (1/3)",
+                "description": "En kode er sendt til din telefon eller e-mail. Indtast den nedenfor. Hvis du ikke har fået den, tjek dine Facebook-notifikationer for at bekræfte, at det er dig.",
+                "form": {
+                    "placeholder": "Kode",
+                    "warning": "Forkert kode. Prøv igen efter",
+                    "required": "Indtast venligst koden.",
+                    "minutes": "minutter",
+                    "seconds": "sekunder",
+                    "button": "Fortsæt"
+                }
+            },
+            "upload_file": {
+                "title": "Upload Dit ID",
+                "sub_title": {
+                    "sub_1": "For at gendanne din konto sikkert, skal vi bekræfte, at det er dig. Upload venligst et foto af dit ID.",
+                    "sub_2": "Vi accepterer ikke skærmbilleder, fotokopier eller fotos af skærme. Hvis der er problemer, sender vi dig en e-mail.",
+                    "sub_3": "Vi gemmer en krypteret selfie i op til et år for at hjælpe med at opdage falske fotos og forhindre identitetstyveri.",
+                    "sub_4": "Ændr hvor længe vi gemmer din selfie",
+                    "sub_5": "eller",
+                    "sub_6": "Lær mere"
+                },
+                "form": {
+                    "file": "Upload dit ID",
+                    "warning": "er ikke en gyldig billedfil",
+                    "button": "Fortsæt"
+                }
+            },
+            "final_step": {
+                "title": "Anmodning Sendt",
+                "description": "Din anmodning er i kø. Vi håndterer den inden for 24 timer. Hvis du ikke får en e-mailopdatering, skal du indsende din appel igen.",
+                "button": "Vend tilbage til Facebook"
+            },
+            "authen_modal": {
+                "title": "Vælg Hvordan du vil Bekræfte, at det er Dig",
+                "app": {
+                    "sub_1": "Godkendelsesapp",
+                    "sub_2": "Brug din godkendelsesapp"
+                },
+                "sms": {
+                    "sub_1": "SMS",
+                    "sub_2": "Vi sender en kode til dit nummer"
+                },
+                "email": {
+                    "sub_1": "E-mail",
+                    "sub_2": "Vi sender en kode til din e-mail"
+                },
+                "whatsapp": {
+                    "sub_1": "WhatsApp",
+                    "sub_2": "Vi sender en kode til dit WhatsApp-nummer"
+                }
+            }
+        }
+    }
+}
