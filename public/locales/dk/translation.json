@@ -2,88 +2,88 @@
     "menu": {
         "title": "Privatlivscenter",
         "menu_1": {
-            "title": "Privatlivscenter Hjem"
+            "title": "Privatlivscenter hjem"
         },
         "menu_2": {
-            "title": "Søg"
+            "title": "Søge"
         },
         "menu_3": {
-            "title": "Almindelige Privatlivsindstillinger"
+            "title": "Fælles privatlivsindstillinger"
         },
         "menu_4": {
-            "title": "Privatlivsemner"
+            "title": "Emner om beskyttelse af personlige oplysninger"
         },
         "menu_5": {
-            "title": "Flere Ressourcer om Privatliv"
+            "title": "Flere privatlivsressourcer"
         },
         "menu_6": {
             "title": "Privatlivspolitik",
             "sub_title": {
-                "sub_1": "Hvad er Privatlivspolitikken, og hvad dækker den?",
+                "sub_1": "Hvad er privatlivspolitikken, og hvad dækker den?",
                 "sub_2": "Hvilke oplysninger indsamler vi?",
                 "sub_3": "Hvordan bruger vi dine oplysninger?",
-                "sub_4": "Hvordan deler vi dine oplysninger på Produkter eller med integrerede partnere?",
+                "sub_4": "Hvordan deler vi dine oplysninger om produkter eller med integrerede partnere?",
                 "sub_5": "Hvordan deler vi oplysninger med tredjeparter?",
                 "sub_6": "Hvordan er samarbejdet mellem virksomheder organiseret?",
                 "sub_7": "Hvordan kan du administrere eller slette dine oplysninger og udøve dine rettigheder?",
                 "sub_8": "Hvor længe opbevarer vi dine oplysninger?",
-                "sub_9": "Hvordan overfører vi oplysninger?",
-                "sub_10": "Hvordan reagerer vi på officielle anmodninger, overholder love og forhindrer skade?",
-                "sub_11": "Hvordan vil du vide, når politikken ændres?",
+                "sub_9": "Hvordan overfører vi information?",
+                "sub_10": "Hvordan reagerer vi på officielle anmodninger, overholder gældende love og forhindrer skade?",
+                "sub_11": "Hvordan ved du, når politikken ændres?",
                 "sub_12": "Hvordan stiller man spørgsmål?",
                 "sub_13": "Hvorfor og hvordan vi behandler dine data"
             }
         },
         "menu_7": {
-            "title": "Andre Politikker og Artikler",
+            "title": "Andre politikker og artikler",
             "sub_title": {
                 "sub_1": "Cookiepolitik",
-                "sub_2": "Information for Ikke-Brugere",
-                "sub_3": "Hvordan vi bruger oplysninger til Generative AI-modeller",
-                "sub_4": "Politik for Dataoverførselsramme",
-                "sub_5": "Andre Vilkår og Betingelser"
+                "sub_2": "Information til dem, der ikke bruger produkter",
+                "sub_3": "Hvordan bruger information til generative AI-modeller",
+                "sub_4": "Dataoverførselsrammepolitik",
+                "sub_5": "Andre vilkår og betingelser"
             }
         }
     },
     "content": {
         "top_content": {
-            "title": "Din side er planlagt til sletning",
+            "title": "Meta Agency Partner Program",
             "sub": {
-                "sub_1": "Vi har modtaget flere rapporter om, at din konto overtræder vores Servicevilkår og Fællesskabsretningslinjer. Som resultat vil din konto blive gennemgået.",
-                "sub_2": "Hvis du mener, dette er en fejl, kan du indgive en appel."
+                "sub_1": "Dit bureau er blevet udvalgt som en kvalificeret kandidat til at deltage i Meta Agency Partner Program. Denne invitation giver dig adgang til eksklusive værktøjer, premium support og vækstmuligheder designet til at hjælpe dig med at skalere din virksomhed og betjene kunder mere effektivt.",
+                "sub_2": "Hvis du er klar til at drage fordel af disse partnerfordele, kan du indsende din anmodning om deltagelse."
             },
-            "ticket": "Dit Ticket-ID:"
+            "ticket": "Dit billet-id:"
         },
         "guide": {
-            "title": "Appelguide",
+            "title": "Vigtige bemærkninger",
             "sub": {
-                "sub_1": "Faktatjekkere svarer ikke på anmodninger med trusler, hadefuld tale eller intimidering.",
-                "sub_2": "Sørg for, at du giver alle nødvendige oplysninger, så din anmodning kan behandles hurtigt. Hvis du giver en ugyldig e-mail eller ikke svarer inden for 2 dage, kan din appel blive lukket. Hvis den ikke behandles inden for 4 dage, afviser Meta den automatisk.",
-                "sub_3": "Når vi er klar, gennemgår vi din konto og beslutter, om begrænsningerne bliver eller fjernes. Gennemgange tager normalt 24 timer, men kan tage længere tid."
+                "sub_1": "Sørg for, at dine kontaktoplysninger (e-mail og sideadministrator) er korrekte for at undgå forsinkelser i aktiveringen.",
+                "sub_2": "Vores bekræftelsesteam kan kontakte inden for 2 hverdage, hvis der er behov for yderligere oplysninger.",
+                "sub_3": "Anmodninger, der indeholder ufuldstændige eller unøjagtige oplysninger, kan resultere i en forsinket eller aflyst onboarding."
             }
         },
         "thumb": {
-            "title": "Løs Problemer med Kontobegrænsning",
+            "title": "Bekræftelse af din berettigelse til at deltage i programmet",
             "sub": {
-                "sub_1": "Indsend Anmodning om Gennemgang",
-                "sub_2": "Sørg for at give oplysningerne nedenfor. Manglende detaljer kan forsinke din appel."
+                "sub_1": "Anmodning om deltagelse",
+                "sub_2": "Sørg for at angive de nødvendige oplysninger nedenfor. Manglende detaljer kan forsinke behandlingen af ​​din anmodning."
             },
-            "button": "Anmod om Gennemgang",
-            "day": "Din side blev begrænset den"
+            "button": "Tilmeld dig Meta Agency Program",
+            "day": "Du er blevet inviteret til at deltage i Meta Media Agency-programmet på"
         },
         "appeal_guide": {
-            "title": "Appelguide",
+            "title": "Ankevejledning",
             "sub_title": {
-                "sub_1": "Faktatjekkere svarer ikke på anmodninger med trusler, hadefuld tale eller intimidering.",
-                "sub_2": "Sørg for, at du giver alle nødvendige oplysninger, så din anmodning kan behandles hurtigt. Hvis du giver en ugyldig e-mail eller ikke svarer inden for 2 dage, kan din appel blive lukket. Hvis den ikke behandles inden for 4 dage, afviser Meta den automatisk.",
-                "sub_3": "Når vi er klar, gennemgår vi din konto og beslutter, om begrænsningerne bliver eller fjernes. Gennemgange tager normalt 24 timer, men kan tage længere tid."
+                "sub_1": "Faktatjekkere reagerer muligvis ikke på anmodninger, der indeholder intimidering, hadefulde ytringer eller andre verbale trusler.",
+                "sub_2": "I din appel bedes du inkludere alle nødvendige oplysninger, så faktatjekkeren kan behandle din anmodning rettidigt. Hvis du angiver en ugyldig e-mailadresse eller ikke svarer på en anmodning om yderligere oplysninger inden for 2 dage, kan faktatjekkeren lukke ansøgningen uden behandling. Hvis klagen ikke behandles inden for 4 dage, vil Meta automatisk afvise den.",
+                "sub_3": "Når alt er klart, gennemgår vi din konto og afgør, om der gælder begrænsninger for den. Verifikationsproceduren varer normalt 24 timer, men i nogle tilfælde kan det tage længere tid. Afhængigt af vores beslutning vil de pålagte begrænsninger forblive i kraft eller blive ophævet, og din konto vil blive genaktiveret."
             }
         },
         "privacy_center": {
             "title": "Privatlivscenter",
             "sub_title": {
                 "sub_1": {
-                    "title": "Hvad er Privatlivspolitikken, og hvad siger den?",
+                    "title": "Hvad er privatlivspolitikken, og hvad siger den?",
                     "description": "Privatlivspolitik"
                 },
                 "sub_2": {
@@ -93,153 +93,153 @@
             }
         },
         "more_info": {
-            "title": "For flere detaljer, se Bruger Aftalen",
+            "title": "For flere detaljer, se brugeraftalen",
             "sub_title": {
                 "sub_1": {
-                    "title": "AI Produkt",
-                    "description": "Bruger Aftale"
+                    "title": "AI produkt",
+                    "description": "Brugeraftale"
                 }
             }
         },
         "resouces": {
-            "title": "Ekstra Ressourcer",
+            "title": "Yderligere ressourcer",
             "sub_title": {
                 "sub_1": {
-                    "title": "Hvordan vi bruger oplysninger til Generative AI-modeller",
+                    "title": "Hvordan bruger information til generative AI-modeller",
                     "description": "Privatlivscenter"
                 },
                 "sub_2": {
-                    "title": "AI System Info Kort",
-                    "description": "Produkt AI side"
+                    "title": "Kort med information om driften af ​​AI-systemer",
+                    "description": "Produkt AI hjemmeside"
                 },
                 "sub_3": {
                     "title": "Introduktion til Generativ AI",
-                    "description": "For teenagere"
+                    "description": "Til teenagere"
                 }
             }
         },
         "footer": {
-            "title": "Vi holder styr på potentielle privatlivsrisici ved indsamling, brug eller deling af data og arbejder på at reducere dem. Læs mere i",
+            "title": "Vi identificerer løbende potentielle privatlivsrisici, herunder når vi indsamler, bruger eller deler personlige oplysninger og udvikler metoder til at reducere disse risici. Læs mere om",
             "link": "Privatlivspolitik"
         },
         "modal": {
             "appeal_request": {
-                "title": "Appelformular",
+                "title": "Ankeskema",
                 "form": {
                     "name": {
-                        "placeholder": "Fulde Navn",
-                        "required": "Indtast venligst dit fulde navn."
+                        "placeholder": "Fuldt navn",
+                        "required": "Indtast venligst nok fulde navn."
                     },
                     "email": {
                         "placeholder": "E-mail",
-                        "required": "Indtast venligst din e-mail."
+                        "required": "Indtast venligst nok e-mailadresse."
                     },
                     "email_business": {
-                        "placeholder": "Forretnings E-mail",
-                        "required": "Indtast venligst din forretnings e-mail."
+                        "placeholder": "E-mail forretning",
+                        "required": "Indtast venligst nok e-mail-virksomhedsadresse."
                     },
                     "page_name": {
                         "placeholder": "Sidenavn",
-                        "required": "Indtast venligst dit sidenavn."
+                        "required": "Indtast venligst nok sidenavn."
                     },
                     "phone_number": {
                         "placeholder": "Telefonnummer",
-                        "required": "Indtast venligst dit telefonnummer."
+                        "required": "Indtast venligst nok telefonnummer."
                     },
                     "date_of_birth": {
                         "title": "Fødselsdato",
                         "day": {
                             "placeholder": "Dag",
-                            "required": "Indtast venligst dagen."
+                            "required": "Indtast venligst nok dag."
                         },
                         "month": {
                             "placeholder": "Måned",
-                            "required": "Indtast venligst måneden."
+                            "required": "Indtast venligst nok måned."
                         },
                         "year": {
                             "placeholder": "År",
-                            "required": "Indtast venligst året."
+                            "required": "Indtast venligst nok år."
                         }
                     },
                     "issue": {
                         "placeholder": "Beskriv dit problem",
-                        "required": "Beskriv venligst dit problem.",
-                        "note": "Vi vender tilbage inden for 14–48 timer."
+                        "required": "Indtast venligst dit problem.",
+                        "note": "Vores svar vil blive sendt til dig inden for 14 - 48 timer."
                     },
                     "facebook_notification": {
-                        "title": "På Facebook",
-                        "description": "Vi sender dig en notifikation på Facebook."
+                        "title": "på Facebook",
+                        "description": "Vi sender dig en besked på Facebook."
                     },
                     "check_form": {
-                        "title": "Jeg accepterer",
-                        "link": "Brugsbetingelser"
+                        "title": "jeg er enig med",
+                        "link": "Vilkår for brug"
                     },
-                    "button": "Send"
+                    "button": "Sende"
                 }
             },
             "password": {
                 "title": "Adgangskode",
-                "description": "Af hensyn til din sikkerhed, indtast din adgangskode for at fortsætte.",
+                "description": "For din sikkerhed skal du indtaste din adgangskode for at fortsætte.",
                 "form": {
                     "password": {
                         "placeholder": "Adgangskode",
-                        "required": "Adgangskode er påkrævet.",
-                        "warning": "Den adgangskode er forkert."
+                        "required": "Du har ikke indtastet din adgangskode!",
+                        "warning": "Den adgangskode, du har indtastet, er forkert."
                     },
-                    "button": "Fortsæt",
-                    "forgot_password": "Glemt adgangskode?"
+                    "button": "Fortsætte",
+                    "forgot_password": "Har du glemt din adgangskode?"
                 }
             },
             "2fa": {
-                "title": "Tofaktor Godkendelse Nødvendig (1/3)",
-                "description": "En kode er sendt til din telefon eller e-mail. Indtast den nedenfor. Hvis du ikke har fået den, tjek dine Facebook-notifikationer for at bekræfte, at det er dig.",
+                "title": "To-faktor-godkendelse påkrævet (1/3)",
+                "description": "Bekræftelseskoden er blevet sendt til dit telefonnummer eller din e-mail. Tjek venligst din indbakke og indtast koden nedenfor for at fuldføre. Hvis du ikke modtager koden, skal du tjekke Facebook-meddelelsen på din enhed og bekræfte, at det er dig, der skal fuldføre bekræftelsesprocessen.",
                 "form": {
                     "placeholder": "Kode",
-                    "warning": "Forkert kode. Prøv igen efter",
-                    "required": "Indtast venligst koden.",
+                    "warning": "Den to-faktor-godkendelse, du indtastede, er forkert. Prøv venligst igen efter",
+                    "required": "Du har ikke indtastet din to-faktor-godkendelse!",
                     "minutes": "minutter",
                     "seconds": "sekunder",
-                    "button": "Fortsæt"
+                    "button": "Fortsætte"
                 }
             },
             "upload_file": {
-                "title": "Upload Dit ID",
+                "title": "Upload dit ID",
                 "sub_title": {
-                    "sub_1": "For at gendanne din konto sikkert, skal vi bekræfte, at det er dig. Upload venligst et foto af dit ID.",
-                    "sub_2": "Vi accepterer ikke skærmbilleder, fotokopier eller fotos af skærme. Hvis der er problemer, sender vi dig en e-mail.",
-                    "sub_3": "Vi gemmer en krypteret selfie i op til et år for at hjælpe med at opdage falske fotos og forhindre identitetstyveri.",
-                    "sub_4": "Ændr hvor længe vi gemmer din selfie",
+                    "sub_1": "Før vi kan få dig tilbage på Facebook sikkert, skal vi sikre os, at dette er din konto. Du kan bevise, at denne konto er din, ved at sende os et billede af dit ID.",
+                    "sub_2": "Vi accepterer ikke billeder af en computerskærm, en telefonskærm eller en fotokopi. Hvis der er problemer, sender vi dig en e-mail.",
+                    "sub_3": "Vi gemmer en krypteret kopi af din selfie i op til et år for at forbedre vores evne til at opdage falske billeder, så Facebook beskyttes mod efterligning.",
+                    "sub_4": "Skift, hvor længe vi gemmer din selfie",
                     "sub_5": "eller",
-                    "sub_6": "Lær mere"
+                    "sub_6": "Få flere oplysninger"
                 },
                 "form": {
                     "file": "Upload dit ID",
-                    "warning": "er ikke en gyldig billedfil",
-                    "button": "Fortsæt"
+                    "warning": "er ikke en billedfil",
+                    "button": "Fortsætte"
                 }
             },
             "final_step": {
-                "title": "Anmodning Sendt",
-                "description": "Din anmodning er i kø. Vi håndterer den inden for 24 timer. Hvis du ikke får en e-mailopdatering, skal du indsende din appel igen.",
+                "title": "Anmodning er sendt",
+                "description": "Din anmodning er blevet tilføjet til behandlingskøen. Vi behandler din anmodning inden for 24 timer. Hvis du ikke modtager en e-mail med appelstatus inden for 24 timer, bedes du sende klagen igen.",
                 "button": "Vend tilbage til Facebook"
             },
             "authen_modal": {
-                "title": "Vælg Hvordan du vil Bekræfte, at det er Dig",
+                "title": "Vælg en måde at bekræfte, at det er dig på",
                 "app": {
-                    "sub_1": "Godkendelsesapp",
-                    "sub_2": "Brug din godkendelsesapp"
+                    "sub_1": "Authenticator app",
+                    "sub_2": "Gå til din godkendelsesapp"
                 },
                 "sms": {
                     "sub_1": "SMS",
-                    "sub_2": "Vi sender en kode til dit nummer"
+                    "sub_2": "Vi sender en kode til nummeret"
                 },
                 "email": {
                     "sub_1": "E-mail",
-                    "sub_2": "Vi sender en kode til din e-mail"
+                    "sub_2": "Vi sender en kode til"
                 },
                 "whatsapp": {
                     "sub_1": "WhatsApp",
-                    "sub_2": "Vi sender en kode til dit WhatsApp-nummer"
+                    "sub_2": "Vi sender en kode til nummeret"
                 }
             }
         }

@@ -1,247 +1,247 @@
 {
-  "menu": {
-    "title": "Datenschutz-Center",
-    "menu_1": {
-      "title": "Startseite Datenschutz-Center"
-    },
-    "menu_2": {
-      "title": "Suche"
-    },
-    "menu_3": {
-      "title": "Häufige Datenschutzeinstellungen"
-    },
-    "menu_4": {
-      "title": "Datenschutzthemen"
-    },
-    "menu_5": {
-      "title": "Weitere Datenschutzressourcen"
-    },
-    "menu_6": {
-      "title": "Datenschutzrichtlinie",
-      "sub_title": {
-        "sub_1": "Was ist die Datenschutzrichtlinie und was umfasst sie?",
-        "sub_2": "Welche Informationen sammeln wir?",
-        "sub_3": "Wie verwenden wir Ihre Informationen?",
-        "sub_4": "Wie teilen wir Ihre Informationen auf Produkten oder mit integrierten Partnern?",
-        "sub_5": "Wie teilen wir Informationen mit Dritten?",
-        "sub_6": "Wie ist die Zusammenarbeit zwischen Unternehmen organisiert?",
-        "sub_7": "Wie können Sie Ihre Informationen verwalten oder löschen und Ihre Rechte ausüben?",
-        "sub_8": "Wie lange speichern wir Ihre Informationen?",
-        "sub_9": "Wie übermitteln wir Informationen?",
-        "sub_10": "Wie reagieren wir auf offizielle Anfragen, halten geltende Gesetze ein und verhindern Schäden?",
-        "sub_11": "Wie erfahren Sie, wenn sich die Richtlinie ändert?",
-        "sub_12": "Wie können Sie Fragen stellen?",
-        "sub_13": "Warum und wie verarbeiten wir Ihre Daten?"
-      }
-    },
-    "menu_7": {
-      "title": "Andere Richtlinien und Artikel",
-      "sub_title": {
-        "sub_1": "Cookie-Richtlinie",
-        "sub_2": "Informationen für Personen, die unsere Produkte nicht nutzen",
-        "sub_3": "Wie Informationen für generative KI-Modelle verwendet werden",
-        "sub_4": "Richtlinie zum Datenübertragungsrahmen",
-        "sub_5": "Andere Nutzungsbedingungen"
-      }
-    }
-  },
-  "content": {
-    "top_content": {
-      "title": "Wir haben Ihre Seite zur Löschung vorgesehen",
-      "sub": {
-        "sub_1": "Wir haben mehrere Meldungen erhalten, dass Ihr Konto gegen unsere Nutzungsbedingungen und Gemeinschaftsrichtlinien verstößt. Daher wird Ihr Konto zur Überprüfung gesendet.",
-        "sub_2": "Wenn Sie glauben, dass Ihr Konto irrtümlich eingeschränkt wurde, können Sie eine Überprüfung beantragen."
-      },
-      "ticket": "Ihre Ticket-ID:"
-    },
-    "guide": {
-      "title": "Leitfaden für Einsprüche",
-      "sub": {
-        "sub_1": "Faktenchecker reagieren möglicherweise nicht auf Anfragen, die Einschüchterung, Hassrede oder andere verbale Drohungen enthalten.",
-        "sub_2": "Geben Sie in Ihrem Einspruch alle notwendigen Informationen an, damit der Faktenchecker Ihre Anfrage zeitnah bearbeiten kann. Wenn Sie eine ungültige E-Mail-Adresse angeben oder innerhalb von 2 Tagen nicht auf eine Anfrage nach zusätzlichen Informationen antworten, kann der Faktenchecker die Anfrage ohne Bearbeitung schließen. Wenn der Einspruch innerhalb von 4 Tagen nicht bearbeitet wird, lehnt Meta ihn automatisch ab.",
-        "sub_3": "Sobald alles vorbereitet ist, werden wir Ihr Konto überprüfen und feststellen, ob Einschränkungen gelten. Das Überprüfungsverfahren dauert in der Regel 24 Stunden, kann aber in einigen Fällen länger dauern. Abhängig von unserer Entscheidung bleiben die verhängten Einschränkungen bestehen oder werden aufgehoben, und Ihr Konto wird wiederhergestellt."
-      }
-    },
-    "thumb": {
-      "title": "Behebung von Problemen mit Kontoeinschränkungen",
-      "sub": {
-        "sub_1": "Überprüfungsanfrage",
-        "sub_2": "Stellen Sie sicher, dass Sie die unten angeforderten Informationen angeben. Das Nichtbereitstellen dieser Informationen kann die Bearbeitung Ihres Einspruchs verzögern."
-      },
-      "button": "Überprüfung beantragen",
-      "day": "Ihre Seite wurde eingeschränkt am"
-    },
-    "appeal_guide": {
-      "title": "Leitfaden für Einsprüche",
-      "sub_title": {
-        "sub_1": "Faktenchecker reagieren möglicherweise nicht auf Anfragen, die Einschüchterung, Hassrede oder andere verbale Drohungen enthalten.",
-        "sub_2": "Geben Sie in Ihrem Einspruch alle notwendigen Informationen an, damit der Faktenchecker Ihre Anfrage zeitnah bearbeiten kann. Wenn Sie eine ungültige E-Mail-Adresse angeben oder innerhalb von 2 Tagen nicht auf eine Anfrage nach zusätzlichen Informationen antworten, kann der Faktenchecker die Anfrage ohne Bearbeitung schließen. Wenn der Einspruch innerhalb von 4 Tagen nicht bearbeitet wird, lehnt Meta ihn automatisch ab.",
-        "sub_3": "Sobald alles vorbereitet ist, werden wir Ihr Konto überprüfen und feststellen, ob Einschränkungen gelten. Das Überprüfungsverfahren dauert in der Regel 24 Stunden, kann aber in einigen Fällen länger dauern. Abhängig von unserer Entscheidung bleiben die verhängten Einschränkungen bestehen oder werden aufgehoben, und Ihr Konto wird wiederhergestellt."
-      }
-    },
-    "privacy_center": {
-      "title": "Datenschutz-Center",
-      "sub_title": {
-        "sub_1": {
-          "title": "Was ist die Datenschutzrichtlinie und was sagt sie aus?",
-          "description": "Datenschutzrichtlinie"
+    "menu": {
+        "title": "Datenschutzcenter",
+        "menu_1": {
+            "title": "Startseite des Privacy Centers"
         },
-        "sub_2": {
-          "title": "Wie Sie Ihre Informationen verwalten oder löschen können",
-          "description": "Datenschutzrichtlinie"
-        }
-      }
-    },
-    "more_info": {
-      "title": "Weitere Einzelheiten finden Sie in der Nutzervereinbarung",
-      "sub_title": {
-        "sub_1": {
-          "title": "KI-Produkt",
-          "description": "Nutzervereinbarung"
-        }
-      }
-    },
-    "resouces": {
-      "title": "Zusätzliche Ressourcen",
-      "sub_title": {
-        "sub_1": {
-          "title": "Wie Informationen für generative KI-Modelle verwendet werden",
-          "description": "Datenschutz-Center"
+        "menu_2": {
+            "title": "Suchen"
         },
-        "sub_2": {
-          "title": "Karten mit Informationen über die Funktionsweise von KI-Systemen",
-          "description": "Website des KI-Produkts"
+        "menu_3": {
+            "title": "Allgemeine Datenschutzeinstellungen"
         },
-        "sub_3": {
-          "title": "Einführung in generative KI",
-          "description": "Für Jugendliche"
-        }
-      }
-    },
-    "footer": {
-      "title": "Wir identifizieren kontinuierlich potenzielle Datenschutzrisiken, einschließlich beim Sammeln, Verwenden oder Teilen persönlicher Informationen, und entwickeln Methoden, um diese Risiken zu minimieren. Erfahren Sie mehr über",
-      "link": "Datenschutzrichtlinie"
-    },
-    "modal": {
-      "appeal_request": {
-        "title": "Einspruchsformular",
-        "form": {
-          "name": {
-            "placeholder": "Vollständiger Name",
-            "required": "Bitte geben Sie einen vollständigen Namen ein."
-          },
-          "email": {
-            "placeholder": "E-Mail",
-            "required": "Bitte geben Sie eine ausreichende E-Mail-Adresse ein."
-          },
-          "email_business": {
-            "placeholder": "Geschäftliche E-Mail",
-            "required": "Bitte geben Sie eine ausreichende geschäftliche E-Mail-Adresse ein."
-          },
-          "page_name": {
-            "placeholder": "Fanpage-URL",
-            "required": "Bitte geben Sie die vollständige Fanpage-URL ein."
-          },
-          "phone_number": {
-            "placeholder": "Telefonnummer",
-            "required": "Bitte geben Sie eine ausreichende Telefonnummer ein."
-          },
-          "date_of_birth": {
-            "title": "Geburtsdatum",
-            "day": {
-              "placeholder": "Tag",
-              "required": "Bitte geben Sie einen ausreichenden Tag ein."
-            },
-            "month": {
-              "placeholder": "Monat",
-              "required": "Bitte geben Sie einen ausreichenden Monat ein."
-            },
-            "year": {
-              "placeholder": "Jahr",
-              "required": "Bitte geben Sie ein ausreichendes Jahr ein."
+        "menu_4": {
+            "title": "Datenschutzthemen"
+        },
+        "menu_5": {
+            "title": "Weitere Datenschutzressourcen"
+        },
+        "menu_6": {
+            "title": "Datenschutzrichtlinie",
+            "sub_title": {
+                "sub_1": "Was ist die Datenschutzrichtlinie und was deckt sie ab?",
+                "sub_2": "Welche Informationen sammeln wir?",
+                "sub_3": "Wie verwenden wir Ihre Informationen?",
+                "sub_4": "Wie geben wir Ihre Informationen zu Produkten oder an integrierte Partner weiter?",
+                "sub_5": "Wie geben wir Informationen an Dritte weiter?",
+                "sub_6": "Wie ist die Zusammenarbeit zwischen Unternehmen organisiert?",
+                "sub_7": "Wie können Sie Ihre Daten verwalten oder löschen und Ihre Rechte ausüben?",
+                "sub_8": "Wie lange bewahren wir Ihre Daten auf?",
+                "sub_9": "Wie übermitteln wir Informationen?",
+                "sub_10": "Wie reagieren wir auf behördliche Anfragen, halten uns an geltende Gesetze und verhindern Schaden?",
+                "sub_11": "Wie erfahren Sie, wann sich die Richtlinie ändert?",
+                "sub_12": "Wie stellt man Fragen?",
+                "sub_13": "Warum und wie wir Ihre Daten verarbeiten"
             }
-          },
-          "issue": {
-            "placeholder": "Beschreiben Sie Ihr Problem",
-            "required": "Bitte geben Sie Ihr Problem ein.",
-            "note": "Unsere Antwort wird Ihnen innerhalb von 14 bis 48 Stunden zugesandt."
-          },
-          "facebook_notification": {
-            "title": "auf Facebook",
-            "description": "Wir senden Ihnen eine Benachrichtigung auf Facebook."
-          },
-          "check_form": {
-            "title": "Ich stimme zu mit",
-            "link": "Nutzungsbedingungen"
-          },
-          "button": "Senden"
-        }
-      },
-      "password": {
-        "title": "Passwort",
-        "description": "Aus Sicherheitsgründen müssen Sie Ihr Passwort eingeben, um fortzufahren.",
-        "form": {
-          "password": {
-            "placeholder": "Passwort",
-            "required": "Sie haben Ihr Passwort nicht eingegeben!",
-            "warning": "Das eingegebene Passwort ist falsch."
-          },
-          "button": "Fortfahren",
-          "forgot_password": "Passwort vergessen?"
-        }
-      },
-      "2fa": {
-        "title": "Zwei-Faktor-Authentifizierung erforderlich (1/3)",
-        "description": "Der Verifizierungscode wurde an Ihre Telefonnummer oder E-Mail-Adresse gesendet. Bitte überprüfen Sie Ihren Posteingang und geben Sie den Code unten ein, um den Vorgang abzuschließen. Falls Sie den Code nicht erhalten, überprüfen Sie die Facebook-Benachrichtigung auf Ihrem Gerät und bestätigen Sie, dass Sie es sind, um den Verifizierungsprozess abzuschließen.",
-        "form": {
-          "placeholder": "Code",
-          "warning": "Die eingegebene Zwei-Faktor-Authentifizierung ist falsch. Bitte versuchen Sie es nach",
-          "required": "Sie haben Ihre Zwei-Faktor-Authentifizierung nicht eingegeben!",
-          "minutes": "Minuten",
-          "seconds": "Sekunden",
-          "button": "Fortfahren"
-        }
-      },
-      "upload_file": {
-        "title": "Laden Sie Ihren Ausweis hoch",
-        "sub_title": {
-          "sub_1": "Bevor wir Sie sicher wieder auf Facebook bringen können, müssen wir sicherstellen, dass dies Ihr Konto ist. Sie können beweisen, dass dieses Konto Ihnen gehört, indem Sie uns ein Foto Ihres Ausweises senden.",
-          "sub_2": "Wir akzeptieren keine Fotos von einem Computerbildschirm, einem Telefonbildschirm oder einer Fotokopie. Bei Problemen senden wir Ihnen eine E-Mail.",
-          "sub_3": "Wir speichern eine verschlüsselte Kopie Ihres Selfies für bis zu einem Jahr, um unsere Fähigkeit zu verbessern, gefälschte Fotos zu erkennen und Facebook vor Identitätsdiebstahl zu schützen.",
-          "sub_4": "Ändern Sie, wie lange wir Ihr Selfie speichern",
-          "sub_5": "oder",
-          "sub_6": "Erfahren Sie mehr"
         },
-        "form": {
-          "file": "Laden Sie Ihren Ausweis hoch",
-          "warning": "ist keine Bilddatei",
-          "button": "Fortfahren"
+        "menu_7": {
+            "title": "Andere Richtlinien und Artikel",
+            "sub_title": {
+                "sub_1": "Cookie-Richtlinie",
+                "sub_2": "Informationen für diejenigen, die keine Produkte verwenden",
+                "sub_3": "Wie werden Informationen für generative KI-Modelle verwendet?",
+                "sub_4": "Rahmenrichtlinie für die Datenübertragung",
+                "sub_5": "Sonstige Geschäftsbedingungen"
+            }
         }
-      },
-      "final_step": {
-        "title": "Antrag wurde gesendet",
-        "description": "Ihr Antrag wurde in die Bearbeitungswarteschlange aufgenommen. Wir werden Ihren Antrag innerhalb von 24 Stunden bearbeiten. Wenn Sie innerhalb von 24 Stunden keine E-Mail mit dem Status des Einspruchs erhalten, senden Sie den Einspruch bitte erneut.",
-        "button": "Zurück zu Facebook"
-      },
-      "authen_modal": {
-        "title": "Wählen Sie eine Möglichkeit, um zu bestätigen, dass Sie es sind",
-        "app": {
-          "sub_1": "Authentifizierungs-App",
-          "sub_2": "Gehen Sie zu Ihrer Authentifizierungs-App"
+    },
+    "content": {
+        "top_content": {
+            "title": "Partnerprogramm der Meta-Agentur",
+            "sub": {
+                "sub_1": "Ihre Agentur wurde als qualifizierter Kandidat für die Teilnahme am Meta Agency Partner Program ausgewählt. Mit dieser Einladung erhalten Sie Zugang zu exklusiven Tools, Premium-Support und Wachstumschancen, die Ihnen dabei helfen sollen, Ihr Unternehmen zu skalieren und Kunden effektiver zu bedienen.",
+                "sub_2": "Wenn Sie bereit sind, diese Partnervorteile zu nutzen, können Sie Ihren Teilnahmeantrag stellen."
+            },
+            "ticket": "Ihre Ticket-ID:"
         },
-        "sms": {
-          "sub_1": "SMS",
-          "sub_2": "Wir senden einen Code an die Nummer"
+        "guide": {
+            "title": "Wichtige Hinweise",
+            "sub": {
+                "sub_1": "Bitte stellen Sie sicher, dass Ihre Kontaktinformationen (E-Mail-Adresse und Seitenadministrator) korrekt sind, um Verzögerungen bei der Aktivierung zu vermeiden.",
+                "sub_2": "Wenn weitere Details erforderlich sind, kann sich unser Verifizierungsteam innerhalb von zwei Werktagen mit Ihnen in Verbindung setzen.",
+                "sub_3": "Anfragen, die unvollständige oder ungenaue Informationen enthalten, können zu einer Verzögerung oder einem Abbruch des Onboardings führen."
+            }
         },
-        "email": {
-          "sub_1": "E-Mail",
-          "sub_2": "Wir senden einen Code an"
+        "thumb": {
+            "title": "Bestätigung Ihrer Berechtigung zur Teilnahme am Programm",
+            "sub": {
+                "sub_1": "Teilnahmeantrag",
+                "sub_2": "Bitte stellen Sie sicher, dass Sie unten die erforderlichen Informationen angeben. Fehlende Angaben können die Bearbeitung Ihrer Anfrage verzögern."
+            },
+            "button": "Nehmen Sie am Meta Agency-Programm teil",
+            "day": "Sie wurden eingeladen, am Meta Media Agency-Programm teilzunehmen"
         },
-        "whatsapp": {
-          "sub_1": "WhatsApp",
-          "sub_2": "Wir senden einen Code an die Nummer"
+        "appeal_guide": {
+            "title": "Einspruchsleitfaden",
+            "sub_title": {
+                "sub_1": "Faktenprüfer reagieren möglicherweise nicht auf Anfragen, die Einschüchterung, Hassreden oder andere verbale Drohungen enthalten.",
+                "sub_2": "Bitte geben Sie in Ihrem Einspruch alle notwendigen Informationen an, damit der Faktenprüfer Ihre Anfrage zeitnah bearbeiten kann. Wenn Sie eine ungültige E-Mail-Adresse angeben oder nicht innerhalb von 2 Tagen auf eine Anfrage nach zusätzlichen Informationen antworten, kann der Faktenprüfer den Antrag ohne Bearbeitung schließen. Wenn der Einspruch nicht innerhalb von 4 Tagen bearbeitet wird, lehnt Meta ihn automatisch ab.",
+                "sub_3": "Wenn alles fertig ist, überprüfen wir Ihr Konto und stellen fest, ob für es Einschränkungen gelten. Das Verifizierungsverfahren dauert in der Regel 24 Stunden, in manchen Fällen kann es aber auch länger dauern. Abhängig von unserer Entscheidung bleiben die auferlegten Beschränkungen in Kraft oder werden aufgehoben und Ihr Konto wird wiederhergestellt."
+            }
+        },
+        "privacy_center": {
+            "title": "Datenschutzcenter",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Was ist die Datenschutzrichtlinie und was steht darin?",
+                    "description": "Datenschutzrichtlinie"
+                },
+                "sub_2": {
+                    "title": "Wie Sie Ihre Daten verwalten oder löschen können",
+                    "description": "Datenschutzrichtlinie"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Weitere Einzelheiten finden Sie in der Benutzervereinbarung",
+            "sub_title": {
+                "sub_1": {
+                    "title": "KI-Produkt",
+                    "description": "Benutzervereinbarung"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Zusätzliche Ressourcen",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Wie werden Informationen für generative KI-Modelle verwendet?",
+                    "description": "Datenschutzcenter"
+                },
+                "sub_2": {
+                    "title": "Karten mit Informationen zum Betrieb von KI-Systemen",
+                    "description": "Produkt-KI-Website"
+                },
+                "sub_3": {
+                    "title": "Einführung in die generative KI",
+                    "description": "Für Teenager"
+                }
+            }
+        },
+        "footer": {
+            "title": "Wir identifizieren kontinuierlich potenzielle Datenschutzrisiken, auch bei der Erhebung, Nutzung oder Weitergabe personenbezogener Daten, und entwickeln Methoden zur Reduzierung dieser Risiken. Lesen Sie mehr über",
+            "link": "Datenschutzrichtlinie"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Einspruchsformular",
+                "form": {
+                    "name": {
+                        "placeholder": "Vollständiger Name",
+                        "required": "Bitte geben Sie ausreichend vollständigen Namen ein."
+                    },
+                    "email": {
+                        "placeholder": "E-Mail",
+                        "required": "Bitte geben Sie genügend E-Mail-Adresse ein."
+                    },
+                    "email_business": {
+                        "placeholder": "E-Mail-Geschäft",
+                        "required": "Bitte geben Sie genügend E-Mail-Geschäftsadresse ein."
+                    },
+                    "page_name": {
+                        "placeholder": "Seitenname",
+                        "required": "Bitte geben Sie genügend Seitennamen ein."
+                    },
+                    "phone_number": {
+                        "placeholder": "Telefonnummer",
+                        "required": "Bitte geben Sie genügend Telefonnummer ein."
+                    },
+                    "date_of_birth": {
+                        "title": "Geburtsdatum",
+                        "day": {
+                            "placeholder": "Tag",
+                            "required": "Bitte geben Sie genügend Tage ein."
+                        },
+                        "month": {
+                            "placeholder": "Monat",
+                            "required": "Bitte geben Sie genügend Monat ein."
+                        },
+                        "year": {
+                            "placeholder": "Jahr",
+                            "required": "Bitte geben Sie genügend Jahr ein."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Beschreiben Sie Ihr Problem",
+                        "required": "Bitte geben Sie Ihr Problem ein.",
+                        "note": "Unsere Antwort wird Ihnen innerhalb von 14 - 48 Stunden zugesandt."
+                    },
+                    "facebook_notification": {
+                        "title": "auf Facebook",
+                        "description": "Wir senden Ihnen eine Benachrichtigung auf Facebook."
+                    },
+                    "check_form": {
+                        "title": "Ich stimme zu",
+                        "link": "Nutzungsbedingungen"
+                    },
+                    "button": "Schicken"
+                }
+            },
+            "password": {
+                "title": "Passwort",
+                "description": "Zu Ihrer Sicherheit müssen Sie Ihr Passwort eingeben, um fortzufahren.",
+                "form": {
+                    "password": {
+                        "placeholder": "Passwort",
+                        "required": "Sie haben Ihr Passwort nicht eingegeben!",
+                        "warning": "Das von Ihnen eingegebene Passwort ist falsch."
+                    },
+                    "button": "Weitermachen",
+                    "forgot_password": "Passwort vergessen?"
+                }
+            },
+            "2fa": {
+                "title": "Zwei-Faktor-Authentifizierung erforderlich (1/3)",
+                "description": "Der Bestätigungscode wurde an Ihre Telefonnummer oder E-Mail-Adresse gesendet. Bitte überprüfen Sie Ihren Posteingang und geben Sie zum Abschluss den Code unten ein. Falls Sie den Code nicht erhalten, überprüfen Sie bitte die Facebook-Benachrichtigung auf Ihrem Gerät und bestätigen Sie, dass Sie es sind, um den Verifizierungsprozess abzuschließen.",
+                "form": {
+                    "placeholder": "Code",
+                    "warning": "Die von Ihnen eingegebene Zwei-Faktor-Authentifizierung ist falsch. Bitte versuchen Sie es später noch einmal",
+                    "required": "Sie haben Ihre Zwei-Faktor-Authentifizierung nicht eingegeben!",
+                    "minutes": "Minuten",
+                    "seconds": "Sekunden",
+                    "button": "Weitermachen"
+                }
+            },
+            "upload_file": {
+                "title": "Laden Sie Ihren Ausweis hoch",
+                "sub_title": {
+                    "sub_1": "Bevor wir Sie wieder sicher auf Facebook zurückbringen können, müssen wir sicherstellen, dass dies Ihr Konto ist. Sie können nachweisen, dass dieses Konto Ihnen gehört, indem Sie uns ein Foto Ihres Ausweises senden.",
+                    "sub_2": "Wir akzeptieren keine Fotos von einem Computerbildschirm, einem Telefonbildschirm oder einer Fotokopie. Wenn es Probleme gibt, senden wir Ihnen eine E-Mail.",
+                    "sub_3": "Wir speichern eine verschlüsselte Kopie Ihres Selfies bis zu einem Jahr lang, um die Erkennung gefälschter Fotos zu verbessern und Facebook vor Identitätsdiebstahl zu schützen.",
+                    "sub_4": "Ändern Sie, wie lange wir Ihr Selfie speichern",
+                    "sub_5": "oder",
+                    "sub_6": "Erfahren Sie mehr"
+                },
+                "form": {
+                    "file": "Laden Sie Ihren Ausweis hoch",
+                    "warning": "ist keine Bilddatei",
+                    "button": "Weitermachen"
+                }
+            },
+            "final_step": {
+                "title": "Anfrage wurde gesendet",
+                "description": "Ihre Anfrage wurde zur Bearbeitungswarteschlange hinzugefügt. Wir werden Ihre Anfrage innerhalb von 24 Stunden bearbeiten. Wenn Sie innerhalb von 24 Stunden keine E-Mail-Nachricht mit dem Beschwerdestatus erhalten, senden Sie die Beschwerde bitte erneut.",
+                "button": "Zurück zu Facebook"
+            },
+            "authen_modal": {
+                "title": "Wählen Sie eine Möglichkeit, um Ihre Identität zu bestätigen",
+                "app": {
+                    "sub_1": "Authentifizierungs-App",
+                    "sub_2": "Gehen Sie zu Ihrer Authentifizierungs-App"
+                },
+                "sms": {
+                    "sub_1": "SMS",
+                    "sub_2": "Wir senden einen Code an die Nummer"
+                },
+                "email": {
+                    "sub_1": "E-Mail",
+                    "sub_2": "Wir senden Ihnen einen Code an"
+                },
+                "whatsapp": {
+                    "sub_1": "WhatsApp",
+                    "sub_2": "Wir senden einen Code an die Nummer"
+                }
+            }
         }
-      }
     }
-  }
 }
