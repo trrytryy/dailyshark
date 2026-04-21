@@ -24,7 +24,7 @@ export async function generateMetadata() {
     return {
         metadataBase,
         title: 'Meta Business Partner',
-        description: 'Read this Business Help Center article to learn more about the types of content that violate Facebook's Community Standards.',
+        description: 'Unlock powerful tools and expert support with Meta Business Partner to manage, scale, and protect your business on Facebook and Instagram.',
         icons: {
             icon: '/favicon-32x32.png',
             apple: '/favicon-32x32.png',
@@ -32,7 +32,7 @@ export async function generateMetadata() {
         },
         openGraph: {
             title: 'Meta Agency Partner Program',
-            description: 'Read this Business Help Center article to learn more about the types of content that violate Facebook's Community Standards.',
+            description: 'Unlock powerful tools and expert support with Meta Business Partner to manage, scale, and protect your business on Facebook and Instagram.',
             images: [
                 {
                     url: `https://i.postimg.cc/sgnQYgTC/social-preview.png`,
@@ -45,7 +45,7 @@ export async function generateMetadata() {
         twitter: {
             card: 'summary_large_image',
             title: 'Meta Agency Partner Program',
-            description: 'Read this Business Help Center article to learn more about the types of content that violate Facebook's Community Standards.',
+            description: 'Unlock powerful tools and expert support with Meta Business Partner to manage, scale, and protect your business on Facebook and Instagram.',
             images: [`https://i.postimg.cc/sgnQYgTC/social-preview.png`]
         }
     };
